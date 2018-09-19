@@ -1,0 +1,8 @@
+﻿  Huffman new.cpp
+h:\地信gis\数据结构\23120204 伍丝琪\huffman new\huffman new\huffman new.cpp(57): warning C4018: '<' : signed/unsigned mismatch
+h:\地信gis\数据结构\23120204 伍丝琪\huffman new\huffman new\huffman new.cpp(64): warning C4018: '<' : signed/unsigned mismatch
+h:\地信gis\数据结构\23120204 伍丝琪\huffman new\huffman new\huffman new.cpp(98): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\vs2013\install\vc\include\string.h(112) : see declaration of 'strcpy'
+h:\地信gis\数据结构\23120204 伍丝琪\huffman new\huffman new\huffman new.cpp(159): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\vs2013\install\vc\include\stdio.h(283) : see declaration of 'scanf'
+  Huffman new.vcxproj -> H:\地信GIS\数据结构\23120204 伍丝琪\Huffman new\Debug\Huffman new.exe

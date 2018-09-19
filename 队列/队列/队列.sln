@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "队列", "队列\队列.vcxproj", "{F7CA267C-14F7-420B-A234-88765F3E6ACC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nihao", "..\nihao\nihao\nihao.vcxproj", "{948D22D7-BF1C-4C14-918E-135B0B2830A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7CA267C-14F7-420B-A234-88765F3E6ACC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F7CA267C-14F7-420B-A234-88765F3E6ACC}.Debug|Win32.Build.0 = Debug|Win32
+		{F7CA267C-14F7-420B-A234-88765F3E6ACC}.Release|Win32.ActiveCfg = Release|Win32
+		{F7CA267C-14F7-420B-A234-88765F3E6ACC}.Release|Win32.Build.0 = Release|Win32
+		{948D22D7-BF1C-4C14-918E-135B0B2830A1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{948D22D7-BF1C-4C14-918E-135B0B2830A1}.Debug|Win32.Build.0 = Debug|Win32
+		{948D22D7-BF1C-4C14-918E-135B0B2830A1}.Release|Win32.ActiveCfg = Release|Win32
+		{948D22D7-BF1C-4C14-918E-135B0B2830A1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

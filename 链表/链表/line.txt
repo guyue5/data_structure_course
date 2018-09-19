@@ -1,0 +1,12 @@
+# 1:shapecount;2: shapetype(0-point,1-polyline,2-polygon),shape ID,vectorcount;3:x,y
+1
+1,0,9
+151,78
+68,142
+171,162
+308,106
+376,224
+448,56
+515,189
+551,164
+568,176
